@@ -1,0 +1,12 @@
+{
+  "name": "@rustywolf/djsbuddy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "author": "Rusty Dawson",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "winston": "^3.0.0-rc3"
+  }
+}
